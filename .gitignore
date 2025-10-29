@@ -6,8 +6,8 @@ __pycache__/
 *.pyc
 
 # File data besar (opsional)
-*.csv
-*.xlsx
+# *.csv
+# *.xlsx
 
 # File editor
 .vscode/
