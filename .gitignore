@@ -1,0 +1,13 @@
+# Virtual environment
+env/
+
+# Cache dan file Python sementara
+__pycache__/
+*.pyc
+
+# File data besar (opsional)
+*.csv
+*.xlsx
+
+# File editor
+.vscode/
